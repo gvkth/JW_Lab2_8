@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1477237-6630-4d1f-82b6-d094f3c42b96" name="Changes" comment="Add docx file" />
+    <list default="true" id="a1477237-6630-4d1f-82b6-d094f3c42b96" name="Changes" comment="Start Lab2_8">
+      <change afterPath="$PROJECT_DIR$/src/CricketCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +75,13 @@
       <option name="presentableId" value="Default" />
       <updated>1682868572494</updated>
     </task>
-    <option name="localTasksCounter" value="0" />
+    <task id="LOCAL-00000" summary="Start Lab2_8">
+      <created>1682868664424</created>
+      <option name="number" value="00000" />
+      <option name="presentableId" value="LOCAL-00000" />
+      <option name="project" value="LOCAL" />
+      <updated>1682868664424</updated>
+    </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start Lab2_8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start Lab2_8" />
   </component>
 </project>
